@@ -40,7 +40,7 @@ By both holding a Disco Solaris NFT and Discoin, you can:
 
 
 
-### The Genesis Drop
+### The Genesis Airdrop
 
 The Genesis Drop will consist of the distribution of 57,777 $DISCO to each Disco Solaris NFT being held in a non-custodial wallet. If there are Disco Solaris NFTs listed in a custodial wallet when the snapshot is taken, then they will not qualify for the Genesis Drop. The $DISCO intended to go to custodial Disco Solaris NFTs will then be divided evenly amongst non custodial holders.&#x20;
 
