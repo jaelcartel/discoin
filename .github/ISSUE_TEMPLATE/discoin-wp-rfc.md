@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Feedback type (select at least one)
+## Feedback type (select at least one using `x`)
 - [ ] Comment
 - [ ] Correction
 - [ ] Suggestion
