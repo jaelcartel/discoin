@@ -23,11 +23,21 @@ The multisig is configured to require three of five (3/5) signatures to make tra
 
 The commissioners on the multisig are:
 
-* Papó (Papó#2713)
-* CryptoMarm (CrytpoMarm#2655)
-* Grancho (Grancho#9239)
-* Mogul (Mogul#6345)
-* Teal Titan (Teal Titan#8575)
+* Papó
+  * Discord: Papó#2713
+  * Twitter: [@papodisco](https://twitter.com/PapoDisco)
+* CryptoMarm&#x20;
+  * Discord: CrytpoMarm#2655
+  * Twitter: [@TweetyMac](https://twitter.com/BlankAddd)
+* Grancho&#x20;
+  * Discord: Grancho#9239
+  * Twitter: [@Adabrains](https://twitter.com/Adabrains)
+* Mogul&#x20;
+  * Discord: Mogul#6345
+  * Twitter: [@cnftmogul](https://twitter.com/cnftmogul)
+* Teal Titan
+  * Discord: Teal Titan#8575
+  * Twitter: [@TitanTeal](https://twitter.com/TitanTeal)
 
 
 
