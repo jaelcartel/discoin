@@ -19,7 +19,7 @@ Discoin is a community-led project and has no direct affiliation with the DISCO 
 
 
 
-![](.gitbook/assets/7.png)
+![](<.gitbook/assets/7 (1).png>)
 
 On March 5th, 2022. [Charles, Disco Solaris NFT #0007, was purchased for 125,000ADA](https://cardanoscan.io/transaction/d795c05d6185cee0f6d2cd73fa3ed0dd4cab6aa0d41fbe5d713900b87de8a6ce).
 
