@@ -8,7 +8,7 @@ description: >-
 
 An open call for 5777 community comments, ideas, suggestions, improvements, or concerns begins with the publishing of the [Discoin whitepaper](../../), April 8, 2022.
 
-To submit a comment on the [Discoin whitepaper](../../), you can go to our GitHub repository and then submit an issue.
+To submit a comment on the [Discoin whitepaper](../../), you can go to our GitHub repository and then [submit an issue](https://github.com/jaelcartel/discoin/issues/new?assignees=&labels=Discoin+Whitepaper+RFC&template=discoin-wp-rfc.md&title=%5BDiscoin+WP+RFC%5D).
 
 The RFC period ending will be announced from [@JaelCartel](https://twitter.com/JaelCartel) on Twitter with two weeks prior notice.
 
