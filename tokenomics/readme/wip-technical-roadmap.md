@@ -47,15 +47,15 @@ Note that during Genesis the Treasury multisig receives an airdrop -- this is a 
   * \[\[Airdrop]] Script #bounty
     * 333,777,729 Discoin
     * Identify all wallets holding Discos
-    * Blacklist jpg.store wallets
+    * Blacklist jpg.store / custodial wallets
     * For each wallet
       * Count Discos per wallet
       * Disperse 57777 per Disco in one tx
       * Remove Discos from unclaimed pool
-    * Send Unclaimed Pool (5777 funds remainder) to \[\[Community Pool]] #multisig
+    * Send Unclaimed Pool (5777 funds remainder) to \[\[Community Fund] #multisig
   * To be frozen for future distribution
     * \[\[LP]] Committee #multisig - 25% of future inflation --&#x20;
-    * \[\[Community Pool]] Committee #multisig - 25% of future inflation
+    * \[\[Community Fund]] Committee #multisig - 25% of future inflation
 * \[\[Originating Address]] will begin functioning as the \[\[Staking]] Committee #multisig with remaining funds (50% of future inflation)
 
 #### Staking Rewards
