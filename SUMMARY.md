@@ -4,6 +4,7 @@
 
 * [🪙 Discoin](README.md)
   * [👂 Request for Comment](tokenomics/readme/request-for-comment.md)
+  * [🏗 \[WIP\] Technical Roadmap](tokenomics/readme/wip-technical-roadmap.md)
 
 ## 📢 Updates
 
