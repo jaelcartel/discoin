@@ -13,14 +13,15 @@ This Technical Roadmap is a work-in-progress. We'll be updating it frequently as
 
 We propose to begin with a pragmatic, effective approach where necessary, and to gradually and iteratively replace trustful solutions (multisigs) with trustless tooling (smart contract governance) where it would be logical to implement.
 
-As we work with our technical partners, we will revise this document, adding different tooling details or specifications and projected delivery dates.
+As we work with our technical partners, we will revise this document, adding different tooling details, specifications and projected delivery dates.
 
 ### Bounties
 
-We propose to fund bounties for the different development tasks outlined here in both the near-term plan and the long-term plan.
+After evaluation of each item with partners and advisors, we will assign bounties for work completed on particular elements in our roadmap as indicated. If you are interested in working with us and starting work against a bounty, reach out to cherrries@protonmail.com
 
-You can find the items we propose to bounty / fund marked with `#bounty` below.\
-
+{% hint style="success" %}
+As bounties become we will publish them on a bounty list on a page on this site. Be sure to follow [@JaelCartel](https://twitter.com/JaelCartel) on Twitter for updates.
+{% endhint %}
 
 ### Phase 1
 
@@ -36,7 +37,7 @@ Note that during Genesis the Treasury multisig receives an airdrop -- this is a 
 
 #### Fractionalization of Charles
 
-* via Fracada v2 from dcSpark
+* via Fracada v2&#x20;
 * 5,777,777,777 to Originating Address #multisig
 
 #### Genesis
@@ -44,7 +45,7 @@ Note that during Genesis the Treasury multisig receives an airdrop -- this is a 
 * outputs
   * \[\[Treasury]] #multisig receives Airdrop
     * 333,777,729 Discoin
-  * \[\[Airdrop]] Script #bounty
+  * \[\[Airdrop]] Script
     * 333,777,729 Discoin
     * Identify all wallets holding Discos
     * Blacklist jpg.store / custodial wallets
@@ -60,35 +61,19 @@ Note that during Genesis the Treasury multisig receives an airdrop -- this is a 
 
 #### Staking Rewards
 
-* script (v1) #bounty
-  * Define epoch
-  * Method
-    * 1 Disco PFP required to stake
-      * Commit Discoin to be staked against PFP NFT to smart contract
-      * Must unstake via original PFP NFT
-      * Must unstake before end of epoch to withdraw after beginning of next epoch
-      * Rewards compound if staked epoch to epoch
-* smart contract (v2) #bounty
+* Staking Portal
+* Staking Requirements
+  * 1 Disco Solaris PFP NFT required to stake Discoin
 
-#### Governance / Voting
+#### Social Consensus Portal
 
-* \#bounty
-  * Gather votes on arbitrary measures in decentralized, verifiable manner based on PFP in wallet
+* Gather votes on arbitrary measures in decentralized, verifiable manner based on PFP in wallet.
 
 ### Phase 2
 
-#### Governance
+#### Social Consensus Protocol and Tooling
 
-* \[\[Voting]]
-  * phase 1
-    * Catalyst-like fund management and voting infrastructure #bounty
-    * Votes bind on smart contract action in verifiable / transparent way where funds / proposals are concerned
-    * \[\[Proposals]] #bounty
-      * \[\[Treasury]]
-      * \[\[Community Pool]]
-  * phase 2
-    * \[\[Constitutional Amendments]]
-    * \[\[Elections]]
-      * Committees / Governing Bodies
-      * Governance Initiatives
-    * \[\[Jury]] decisions for dispute resolutions \[\[Court]] in the \[\[Commons]]
+* Fund Management Protocol and Tooling
+  * \[\[Treasury]]
+  * \[\[Community Pool]]
+
