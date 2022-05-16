@@ -33,12 +33,12 @@ By both holding a Disco Solaris NFT and Discoin, you can:
 * Vote on and sumbit Treasury proposals
   * 1 Disco Solaris NFT = 1 vote
   * must have minimum amount of Discoin per Disco Solaris NFT in same wallet
-* Vote on and submit Entertainment District (Community Fund) proposals
+* Vote on and submit Community Fund proposals
   * 1 Disco Solaris NFT = 1 vote
   * must have minimum amount of Discoin per Disco Solaris NFT in same wallet
 * Buy/Spend/Sell within the community ecosystem / market of Neo Miami / Entertainment District
 
-
+![Discoin Distribution](https://mermaid.ink/img/pako:eNqVUstqwzAQ\_BUh6C2BkhBMfSiUpC8IJSQ5-qJa60TEllw9KEb2v1eyZBOcXGqQtaudGc0usjgXFHCKT5LUZ7TdZxy5b30msgSF5vPn9kByyQqWQ4s2TOWC8YCJicegdjVLkmRY7TtwUEwFnDLfQfx0fRohPfuFSSpFfVvYCVEq-yFKyvgpZN1ElFxzo1C0lHgryG\_W\_7o7mOVyGUwvnlp0lECUkY0dgsjw5AA3PC8Jq4CiwnCqWrQWVWU4040do95mZAKnk6DvoRf75EVJNBNxmmMazT8-IAkVYdx3rkxdl02LDppcXG7jjvbwSyS9mYkK5XA6YL2s72Ta09fb0en8GCaBjjdMXE\_MLVb3zG13drvr\_kEYR4ZnuALpytQ9ROsVMqzPUEGGUxdSIi8ZznjncKamRMMrZVpInBakVDDDxGhxaHiOUy0NDKANI24cVUR1f9QS828)
 
 ### The Genesis Airdrop
 
