@@ -128,9 +128,7 @@ The full scope and mechanism of governance over the Treasury will be defined in 
 
 ### Governance
 
-Discoin is an essential component of community empowerment, and its' creation endows the community with significant funds within the Treasury and Entertainment District that can be used to manifest real change and progress.\
+Discoin is an essential component of community empowerment, and its' creation endows the community with significant funds within the Treasury and Community Fund that can be used to manifest real change and progress.\
 \
-We wish to initiate the discussion required to define the procedure by which a Constitution can be collectively authored and ratified by the 5777.\
-\
-We propose that the Governance of the Treasury and Entertainment District be defined in this new community created Constitution.&#x20;
+We wish to initiate the discussion required to define how the community will govern itself.
 
