@@ -19,7 +19,7 @@ Snapshot Window begins July 1, 2022 and ends at an indeterminate time in the fut
 To be eligible, the following must occur:
 
 * Each Disco Solaris PFP NFT must be in a non-custodial wallet.
-  * <mark style="color:red;">**All custodial marketplace wallets or contracts will not qualify**</mark>
+  * <mark style="color:red;">**All publicly known custodial marketplace wallets or contracts will not qualify**</mark>
 * To claim, you will only need to submit the wallet address with your PFP NFTs during the claim period.
 
 More details about claiming the drop will be released late July 2022.
