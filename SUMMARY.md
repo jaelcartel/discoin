@@ -9,3 +9,5 @@
 ## 📢 Updates
 
 * [😎 Charles moves to Multisig](updates/charles-moves-to-multisig.md)
+* [🎉 Discoin is born](updates/discoin-is-born.md)
+* [🪂 Airdrop Details](updates/airdrop-details.md)
