@@ -1,6 +1,6 @@
 # 🪂 Airdrop Details
 
-Neo Miami Citizens (Disco Solaris PFP NFT Holders) will soon be eligible to claim the Discoin Airdrop from the new Staking Portal.&#x20;
+Neo Miami Citizens (Disco Solaris PFP NFT Holders) will soon be eligible to claim the Discoin Airdrop from the new Airdrop Claim & Staking Portal.&#x20;
 
 57777 Discoin will be available to claim per Disco Solaris PFP NFT.
 
