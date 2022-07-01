@@ -10,10 +10,12 @@ You will be able to claim 57,777 Discoin in the Airdrop through the claim portal
 
 Some important points:
 
-* You will not be required to sign a message or interact with your wallet to claim if you choose not to.
+* You may be required to interact with the claim portal using a light wallet and pay a transaction fee, but the PFP NFTs will not need to be in the light wallet.
   * Instead, you may provide the address of the wallet that you
     * control
     * are holding your Disco Solaris PFP NFTs in
+  * You may need to have 1-2 ADA in your light wallet to claim.
+  * Claim wallet does not have to hold PFP NFTs
 * **You may hold your Disco Solaris PFP NFTs in a multisig or in a hardware wallet** -- they may stay where they are so long as they are not in the custody of jpg.store or some other marketplace.
 * During the claim period, you'll be asked to submit your wallet address containing your PFP NFTs.&#x20;
 * Updates about the duration of the claim period will be published when it is launched.
