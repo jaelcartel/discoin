@@ -2,9 +2,9 @@
 
 ## tokenomics
 
-* [🪙 Discoin](README.md)
+* [🪙 Discoin (v0.0.1)](README.md)
   * [👂 Request for Comment](tokenomics/readme/request-for-comment.md)
-  * [🏗 \[WIP\] Technical Roadmap](tokenomics/readme/wip-technical-roadmap.md)
+  * [Page 1](tokenomics/readme/page-1.md)
 
 ## 📢 Updates
 

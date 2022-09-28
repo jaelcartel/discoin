@@ -3,7 +3,7 @@ description: >-
   On 04/15/2022, the Charles PFP has moved been moved into the #JaelCartel
   multisig wallet for holding until the Charles PFP is fractionalized and
   Discoin is born on-chain.
-cover: ../.gitbook/assets/7.png
+cover: ../.gitbook/assets/7 (1).png
 coverY: 0
 ---
 
