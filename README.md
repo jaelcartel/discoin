@@ -20,6 +20,8 @@ The Charles PFP NFT was fractionalized on 06/13/2022 7:11:52 PM EST. It was carr
 
 
 {% hint style="info" %}
+[Tokenomics Sheet](https://docs.google.com/spreadsheets/d/14qX9k1g49BL2j2VGac\_TyIHbBs0zsnQaEOGdXaTHvgo/edit#gid=0)\
+\
 The rest of this document will soon be deprecated and replaced with an updated version. Please check our Twitter ([https://twitter.com/JaelCartel](https://twitter.com/JaelCartel)) for announcements about the release of the update.
 
 \
