@@ -3,7 +3,7 @@ cover: .gitbook/assets/0007.png
 coverY: 38.257173219978746
 ---
 
-# 🪙 Discoin Litepaper (v0.0.1)
+# 🍒 Discoin
 
 ### Why Discoin?
 
@@ -121,9 +121,9 @@ The Liquidity Commission is responsible for ensuring there is proper liquidity f
 
 Any Discoin holder can engage and participate in governance by joining the Liquidity Commission channel on the [Neo Miami Discord](https://discord.gg/HGMBuJ5v).
 
-### Neo Miami Community Fund (CF)
+### DisCatalyst Fund
 
-[Neo Miami Community Fund Multisig](https://roundtable.theadao.io/treasuries/gwMGioIAWBwEv5sb6GB1eb6C6N7hzO3ShKX5dxZBqYaHn%2FqDggBYHH3tegb%2FLULi0CBV03ATdHyznbBz09iQ%2BiE0wlCCAFgcwtQO9MfCzyTaxHwbjVpbJ7WUYVjPtxGNk%2FXTM4IAWBz6pmbOqEpSHukOS261DngbsBufS3HkUnF%2FAcCeggBYHHVW8xP7Bh4vZm6wyF76lYz3lpL8qzuZc2wJhn%2BCAFgcTtHLCfU1jM109Cnl8NNPN28%2BX%2Fej%2B24ZVos%2B8oIAWBzDTWFjedQHAKeSMdKyRkpSB15p7mnijCEm9WjMggBYHNDO1vIHWf6Hnz2fNb4wRhLjWL%2B8ltoJ6W5cM6qCAFgct9o8gaZULVL6YLRxgssTVUXLyNEi0M1L2x8yd4IAWBxgarbrA7h7TXVonLduLHJwXXFW2bEkkPkO6yiv)
+[DisCatalyst Multisig](https://roundtable.theadao.io/treasuries/gwMGioIAWBwEv5sb6GB1eb6C6N7hzO3ShKX5dxZBqYaHn%2FqDggBYHH3tegb%2FLULi0CBV03ATdHyznbBz09iQ%2BiE0wlCCAFgcwtQO9MfCzyTaxHwbjVpbJ7WUYVjPtxGNk%2FXTM4IAWBz6pmbOqEpSHukOS261DngbsBufS3HkUnF%2FAcCeggBYHHVW8xP7Bh4vZm6wyF76lYz3lpL8qzuZc2wJhn%2BCAFgcTtHLCfU1jM109Cnl8NNPN28%2BX%2Fej%2B24ZVos%2B8oIAWBzDTWFjedQHAKeSMdKyRkpSB15p7mnijCEm9WjMggBYHNDO1vIHWf6Hnz2fNb4wRhLjWL%2B8ltoJ6W5cM6qCAFgct9o8gaZULVL6YLRxgssTVUXLyNEi0M1L2x8yd4IAWBxgarbrA7h7TXVonLduLHJwXXFW2bEkkPkO6yiv)
 
 **`addr1xxy8exmrl37hk2pyct5mgc45tjh53udzfhqfxavzlc743vug0jdk8lra0v5zfshfk33tgh90frc6ynwqjd6c9l3atzesqljg09`**
 

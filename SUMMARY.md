@@ -2,4 +2,4 @@
 
 ## tokenomics
 
-* [🪙 Discoin Litepaper (v0.0.1)](README.md)
+* [🍒 Discoin](README.md)
