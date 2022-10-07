@@ -109,6 +109,8 @@ The economy of Neo Miami is expected to live from its own utility, merits and se
 
 The Rewards Commission is responsible for distributing rewards to PFP and Discoin holders and incentivizing holder participation in the economy and governance of Neo Miami.
 
+[Participate on Discord #rewards](https://discord.gg/hqT6tYP5)
+
 ### Liquidity Commission
 
 [Liquidity Commission Multisig](https://roundtable.theadao.io/treasuries/gwMGioIAWBwEv5sb6GB1eb6C6N7hzO3ShKX5dxZBqYaHn%2FqDggBYHH3tegb%2FLULi0CBV03ATdHyznbBz09iQ%2BiE0wlCCAFgcwtQO9MfCzyTaxHwbjVpbJ7WUYVjPtxGNk%2FXTM4IAWBz6pmbOqEpSHukOS261DngbsBufS3HkUnF%2FAcCeggBYHHVW8xP7Bh4vZm6wyF76lYz3lpL8qzuZc2wJhn%2BCAFgc1aG%2BK5fsdPnUHtvgqkx23s0FPmAol4aMgFBwvoIAWBybiDqcThQxzvyrqXLRwl971e9CjnY%2Bd5cu1bchggBYHMEf3m5ib0km9NOCvyH4EtXH%2F1ULUxp0K86oQaeCAFgcyiPMdvH1mQZJbMp7Ac04r2IuDdUIZ9MZJXUvi4IAWByND4xxb%2FsDQnOjXcIJMLLHUEja%2Fa1NdxGKGala)
@@ -156,6 +158,8 @@ Concepts can receive preliminary funding to demonstrate viability before the com
 A virtuous process of building can be established where funding flows from rounds of peer and mentor accountability reviews at developmental milestones. Using a frequent and integrated review, reputation can gradually build and misunderstandings can be mitigated.
 
 Multisignature wallets can be used to administer the release of funds following accountability reviews.
+
+[Join the fun on Discord #discatalyst](https://discord.gg/pbpXdQ7W)
 
 ### Neo Miami Treasury
 
