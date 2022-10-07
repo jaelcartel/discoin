@@ -1,6 +1,6 @@
 ---
-cover: https://discosolaris.com/images/moebius9-bg.jpg
-coverY: 0
+cover: .gitbook/assets/0007.png
+coverY: 38.257173219978746
 ---
 
 # 🪙 Discoin Litepaper (v0.0.1)
