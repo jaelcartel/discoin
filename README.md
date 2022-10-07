@@ -74,7 +74,7 @@ Once rewards distribution Plutus contracts are deployed Discoin distributions wi
 
 #### Rewards Program Incremental Design Cycle
 
-Proposals for improvements to Rewards programs may be discussed and implemented from time to time. We intend to improve the Rewards programs as new data and needs come to light when the opportunity presents.
+Proposals for improvements to Rewards programs may be discussed and implemented from time to time. We intend to improve the Rewards programs as new data and needs come to light.
 
 #### Design
 
