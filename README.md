@@ -105,6 +105,8 @@ The economy of Neo Miami is expected to live from its own utility, merits and se
 
 [Review Rewards Commission Transactions on CardanoScan](https://cardanoscan.io/address/3123e757a0472dbbfe53528bdaedf8c42d1254a6abd691ce51e1d0e2e823e757a0472dbbfe53528bdaedf8c42d1254a6abd691ce51e1d0e2e8)
 
+**Requires 6/10 Signatures to Spend**
+
 The Rewards Commission is responsible for distributing rewards to PFP and Discoin holders and incentivizing holder participation in the economy and governance of Neo Miami.
 
 ### Liquidity Commission
@@ -162,6 +164,8 @@ Multisignature wallets can be used to administer the release of funds following 
 **`addr1xy306nxnhkseaw4rlgfa55skyd342z4mtq5k2j4jux7k4kfzl4xd80dpn6a287snmffpvgmr259tkkpfv49t9cdadtvssms0kr`**
 
 [Review Neo Miami Treasury Multisig Transactions on CardanoScan](https://cardanoscan.io/address/3122fd4cd3bda19ebaa3fa13da52162363550abb5829654ab2e1bd6ad922fd4cd3bda19ebaa3fa13da52162363550abb5829654ab2e1bd6ad9)
+
+**Requires 7/10 signatures to spend**
 
 The Neo Miami Treasury governs the sovereign fund of the people of Neo Miami. The Treasury plans for the long term strength, value, and viability of Discoin.
 
