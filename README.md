@@ -57,9 +57,9 @@ By both holding a Disco Solaris NFT and Discoin, you can:
 | Entity               | Allocation (%) |
 | -------------------- | -------------- |
 | Rewards Commission   | 30.04%         |
-| Liquidity Commission | 5.77%          |
-| DisCatalyst Fund     | 5.77%          |
-| 5777 Airdrop         | 5.77%          |
+| Liquidity Commission | 5.777%         |
+| DisCatalyst Fund     | 5.777%         |
+| 5777 Airdrop         | 5.777%         |
 | Treasury             | 52.63%         |
 
 ### Rewards Schedule
