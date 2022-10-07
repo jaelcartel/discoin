@@ -64,11 +64,17 @@ By both holding a Disco Solaris NFT and Discoin, you can:
 
 ### Rewards Schedule
 
+#### Initial Rewards
+
 For the initial reward periods following the Discoin Airdrop, manual snapshots and batch rewards transactions will be executed on a monthly basis, with the details being announced via Twitter and Discoin with notice. \
 \
 Holders may be required to provide the ADA required to execute distributions to their wallet or perform other actions to register for rewards each cycle.&#x20;
 
 Once rewards distribution Plutus contracts are deployed Discoin distributions will become automated and follow cycles of Cardano epochs.&#x20;
+
+#### Rewards Program Incremental Design Cycle
+
+Proposals for improvements to Rewards programs may be discussed and implemented from time to time. We intend to improve the Rewards programs as new data and needs come to light when the opportunity presents.
 
 #### Design
 
