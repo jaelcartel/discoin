@@ -131,13 +131,13 @@ Any Discoin holder can engage and participate in governance by joining the Liqui
 
 **`addr1xxy8exmrl37hk2pyct5mgc45tjh53udzfhqfxavzlc743vug0jdk8lra0v5zfshfk33tgh90frc6ynwqjd6c9l3atzesqljg09`**
 
-[Review Neo Miami Community Fund Transactions on CardanoScan](https://cardanoscan.io/address/31887c9b63fc7d7b2824c2e9b462b45caf48f1a24dc0937582fe3d58b3887c9b63fc7d7b2824c2e9b462b45caf48f1a24dc0937582fe3d58b3)
+[Review DisCatalyst Fund Transactions on CardanoScan](https://cardanoscan.io/address/31887c9b63fc7d7b2824c2e9b462b45caf48f1a24dc0937582fe3d58b3887c9b63fc7d7b2824c2e9b462b45caf48f1a24dc0937582fe3d58b3)
 
 **Requires 6/10 Signatures to spend**
 
-The Neo Miami Community Fund is responsible for providing governance and structure to the dispensation of funding for community projects.&#x20;
+The DisCatalyst Fund is responsible for providing governance and structure to the dispensation of funding for community projects.&#x20;
 
-The fund is intended to fund and support projects with the following considerations in mind:
+DisCatalyst is intended to fund and support projects with the following considerations in mind:
 
 * sustainability
 * sovereignty
@@ -151,7 +151,7 @@ The fund is intended to fund and support projects with the following considerati
 * decentralization
 * strategy & leadership
 
-The Neo Miami Community Fund will administer a bounty system and provide support structure for participating community projects.&#x20;
+The DisCatalyst Fund will administer a bounty system and provide support structure for participating community projects.&#x20;
 
 Concepts can receive preliminary funding to demonstrate viability before the community commits to fund further milestones of development of a given community project.
 
