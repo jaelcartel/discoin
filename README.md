@@ -7,7 +7,7 @@ coverY: 38.257173219978746
 
 ### Why Discoin?
 
-Discoin is the community currency of Neo Miami. Discoin ($DISCO) was created by members of the [DISCO SOLARIS](https://discosolaris.com) community to empower Disco Solaris NFT holders (Neo Miami Citizens). With Discoin, Disco Solaris NFT holders will be able to stake their coins, participate in governance, and spend their $DISCO in the Neo Miami community economy.
+Discoin is the community currency of Neo Miami. Discoin ($DISCO) was created by members of the [DISCO SOLARIS](https://discosolaris.com) community to empower Disco Solaris NFT holders (Neo Miami Citizens). With Discoin, Disco Solaris NFT holders will be able to earn Discoin rewards, participate in governance, and spend their $DISCO in the Neo Miami community economy.
 
 Discoin is intended to holistically ensure the well-being of each and every Neo Miami Citizen and to empower creators -- builders and artists of all kinds and types. This currency is designed to be the lifeblood or energy that connects us through community. The intention is to create the conditions necessary for true empowerment to emerge for each individual in Neo Miami and for the community as a collective.
 
