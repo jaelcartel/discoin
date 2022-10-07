@@ -5,15 +5,6 @@ coverY: 38.257173219978746
 
 # 🪙 Discoin Litepaper (v0.0.1)
 
-{% hint style="info" %}
-[Tokenomics Sheet](https://docs.google.com/spreadsheets/d/14qX9k1g49BL2j2VGac\_TyIHbBs0zsnQaEOGdXaTHvgo/edit#gid=0)\
-\
-The rest of this document will soon be deprecated and replaced with an updated version. Please check our Twitter ([https://twitter.com/JaelCartel](https://twitter.com/JaelCartel)) for announcements about the release of the update.
-
-\
-🍒 9/27/22
-{% endhint %}
-
 ### Why Discoin?
 
 Discoin is the community currency of Neo Miami. Discoin ($DISCO) was created by members of the [DISCO SOLARIS](https://discosolaris.com) community to empower Disco Solaris NFT holders (Neo Miami Citizens). With Discoin, Disco Solaris NFT holders will be able to stake their coins, participate in governance, and spend their $DISCO in the Neo Miami community economy.
@@ -60,6 +51,8 @@ By both holding a Disco Solaris NFT and Discoin, you can:
 * Receive rewards
 
 ### Token Distribution
+
+[Tokenomics Sheet](https://docs.google.com/spreadsheets/d/14qX9k1g49BL2j2VGac\_TyIHbBs0zsnQaEOGdXaTHvgo/edit#gid=0)
 
 | Entity               | Allocation (%) |
 | -------------------- | -------------- |
