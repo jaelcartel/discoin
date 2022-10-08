@@ -39,7 +39,7 @@ The Charles PFP NFT was fractionalized on 06/13/2022 7:11:52 PM EST. It was carr
 
 On 09/27/2022 the Discoin Airdrop was distributed to 1847 Disco Solaris PFP Holders across 18 transactions. Each holder received a gift of 57777 Discoin per PFP held and 1.3 ADA.&#x20;
 
-Holder addresses were taken from a snapshot taken during the snapshot period. Marketplace wallets did not receive any Discoin and these coins returned to the Treasury for holding.
+Holder addresses were captured from a snapshot taken during July 2022. Marketplace wallets did not receive any Discoin and these coins returned to the Treasury for holding.
 
 [Review Transactions from Airdrop Payment Wallet on CardanoScan](https://cardanoscan.io/address/addr1q8p4taqgxrwss0pdjj09hys2wwjetdpees5sx439ft6uj57v2kmgvpdp52dln9v7sewvkrmc7pe86dv2el45aur4smxqjap64f)
 
