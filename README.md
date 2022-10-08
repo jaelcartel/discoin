@@ -46,7 +46,7 @@ Holder addresses were captured from a snapshot taken during July 2022. Marketpla
 By both holding a Disco Solaris NFT and Discoin, you can:
 
 * Participate in governance
-* Seek funding for your community project from the Neo Miami Community Fund
+* Seek funding for your community project from DisCatalyst Fund
 * Buy/Spend/Sell within the community ecosystem / Bazaar of Neo Miami
 * Receive rewards
 
