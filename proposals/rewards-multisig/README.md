@@ -1,0 +1,15 @@
+# Rewards Multisig
+
+### Rewards Commission
+
+[Rewards Commission Multisig](https://roundtable.theadao.io/treasuries/gwMGioIAWBwEv5sb6GB1eb6C6N7hzO3ShKX5dxZBqYaHn%2FqDggBYHH3tegb%2FLULi0CBV03ATdHyznbBz09iQ%2BiE0wlCCAFgcwtQO9MfCzyTaxHwbjVpbJ7WUYVjPtxGNk%2FXTM4IAWBz6pmbOqEpSHukOS261DngbsBufS3HkUnF%2FAcCeggBYHHVW8xP7Bh4vZm6wyF76lYz3lpL8qzuZc2wJhn%2BCAFgcqV8Zsrig7mX%2FIi4d7SsGRipx4N059Sre6RMBIYIAWBy32jyBplQtUvpgtHGCyxNVRcvI0SLQzUvbHzJ3ggBYHMuxKavlOHlcrZKopOtllOYPTXySwQl9mdZmlxKCAFgc0Op25dTC2XY0L1GLLQMt2DOhsP1EZNzshS2dvoIAWByVU21Nkb3bxlyVVeJsIaaRZ0DafcULZKnJSgg9)
+
+**`addr1xy37w4aqgukmhljn229a4m0ccsk3y49x40tfrnj3u8gw96pruat6q3edh0l9x55tmtkl33pdzf22d27kj889rcwsut5qaa2r64`**
+
+[Review Rewards Commission Transactions on CardanoScan](https://cardanoscan.io/address/3123e757a0472dbbfe53528bdaedf8c42d1254a6abd691ce51e1d0e2e823e757a0472dbbfe53528bdaedf8c42d1254a6abd691ce51e1d0e2e8)
+
+**Requires 6/10 Signatures to Spend**
+
+The Rewards Commission is responsible for distributing rewards to PFP and Discoin holders and incentivizing holder participation in the economy and governance of Neo Miami.
+
+[Participate on Discord #rewards](https://discord.gg/hqT6tYP5)
