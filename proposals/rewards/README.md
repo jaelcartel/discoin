@@ -1,4 +1,4 @@
-# Rewards Multisig
+# 💸 Rewards
 
 ### Rewards Commission
 
