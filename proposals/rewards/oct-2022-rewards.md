@@ -14,13 +14,15 @@
 
 This month's portion of Discoin Rewards are requested for withdrawal to a wallet in 🍒' custody for distributing them to Discoin and NFT holders.
 
-Rewards distribution requires manual actions the presently require the funds be held in custody, but efforts are underway to implement a non-custodial distribution system.
+Rewards distribution requires manual actions that presently require the funds be held in custody, but efforts are underway to implement a non-custodial distribution system.
 
 If you would like more information about the allocation of rewards, please review the tokenomics published on the [Discoin website](https://docs.discoin.family).
 
 **details**
 
-current rewards multisig balance ☉70,093,323.09000000 this distribution: ☉5,841,110.25750000 remaining rewards multisig balance: ☉64,252,212.83250000
+current rewards multisig balance ☉70,093,323.09000000 
+
+this distribution: ☉5,841,110.25750000 remaining rewards multisig balance: ☉64,252,212.83250000
 
 This period's discoin rewards are being sent into 🍒 custody `addr1qyqzspamvq7h4ezsl97pclk7lnwljht80rh49f8myeutgqn4dc72mhg2fyqkucep4ttug0f4nyrxfcskqe8xs3ktlpcqyjpy9w` for airdrop distribution.
 
