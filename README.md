@@ -1,9 +1,9 @@
 ---
-cover: .gitbook/assets/0007.png
-coverY: 38.257173219978746
+cover: .gitbook/assets/bg (1).png
+coverY: 0
 ---
 
-# 🍒 Discoin
+# 🪙 Discoin
 
 ### Why Discoin?
 
@@ -17,7 +17,7 @@ Discoin is a community-led project and has no direct affiliation with the DISCO 
 
 ### Charles' Sacrifice - Discoin
 
-![](<.gitbook/assets/7 (1).png>)
+![](.gitbook/assets/7.png)
 
 
 
