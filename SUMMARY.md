@@ -2,7 +2,7 @@
 
 ## tokenomics
 
-* [🍒 Discoin](README.md)
+* [🪙 Discoin](README.md)
 
 ## Proposals
 
